@@ -1,8 +1,16 @@
 # My Pokémon App
-## Pokémon API
-### Pokémon list
+## API
+### Pokémon
+#### Pokémon list
 https://pokeapi.co/api/v2/pokemon?limit=151
-### Pokémon sprite 
+#### Pokémon sprite 
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{id}.png
-### Pokémon detail
-https://pokeapi.co/api/v2/pokemon/{id}
+#### Pokémon detail
+https://pokeapi.co/api/v2/pokemon/{id}/
+### Items
+#### Item list
+https://pokeapi.co/api/v2/item/
+#### Item sprite
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/{name}.png
+#### Item detail
+https://pokeapi.co/api/v2/item/{id}/
